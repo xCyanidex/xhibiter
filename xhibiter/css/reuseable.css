@@ -1,0 +1,404 @@
+.mr-10 {
+    margin-right: 10px;
+}
+
+.mr-5 {
+    margin-right: 5px;
+}
+
+.mr-15 {
+    margin-right: 15px;
+}
+
+.mr-25 {
+    margin-right: 25px;
+}
+
+.mr-50 {
+    margin-right: 50px;
+}
+
+.mr-auto {
+    margin: auto;
+}
+
+.mr-right-auto {
+    margin-right: auto;
+}
+
+.mr-left-auto {
+    margin-left: auto;
+}
+
+.ml-5 {
+    margin-left: 5px;
+}
+
+.mr-ml-5 {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.mr-ml-10 {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.mr-ml-20 {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.mt-0 {
+    margin-top: 0px;
+}
+
+.mt-20 {
+    margin-top: 20px;
+}
+
+.mt-10 {
+    margin-top: 10px;
+}
+
+.mt-50 {
+    margin-top: 50px;
+}
+
+.mt-100 {
+    margin-top: 100px;
+}
+
+
+.mb-5 {
+    margin-bottom: 5px;
+}
+
+.mb-15 {
+    margin-bottom: 15px;
+}
+
+.mb-20 {
+    margin-bottom: 20px;
+}
+
+.mb-25 {
+    margin-bottom: 25px;
+}
+
+.mb-30 {
+    margin-bottom: 30px;
+}
+
+.mb-40 {
+    margin-bottom: 40px;
+}
+
+
+
+.pad-5 {
+    padding: 5px;
+}
+
+.pad-10 {
+    padding: 10px;
+}
+
+.pad-20 {
+    padding: 20px;
+}
+
+.pt-20 {
+    padding-top: 20px;
+}
+
+.pt-50 {
+    padding-top: 50px;
+}
+
+.pt-100 {
+    padding-top: 100px;
+}
+
+.pt-150 {
+    padding-top: 150px;
+}
+
+.pl-3r {
+    padding-left: 3rem;
+}
+
+.pl-0 {
+    padding-left: 0px;
+}
+
+.pr-5r {
+    padding-right: 5rem;
+}
+
+
+.pb-20 {
+    padding-bottom: 20px;
+}
+
+.pb-50 {
+    padding-bottom: 50px;
+}
+
+.pb-100 {
+    padding-bottom: 100px;
+}
+
+.pb-30r {
+    padding-bottom: 30rem;
+}
+
+.br-5 {
+    border-radius: 5px;
+}
+
+.br-10 {
+    border-radius: 10px;
+}
+
+.br-none {
+    border: none;
+}
+
+.container-fluid {
+    width: 100%;
+
+}
+
+
+.wid-100 {
+    width: 100%;
+}
+
+.wid-80 {
+    width: 80%;
+}
+
+.wid-60 {
+    width: 60%;
+}
+
+
+.max-width {
+    max-width: 1202px;
+    margin: auto;
+}
+
+.inline {
+    display: inline;
+}
+
+.flex-col {
+    display: flex;
+    flex-direction: column;
+}
+
+.flex-row {
+    display: flex;
+    flex-direction: row;
+}
+
+.flex-row-sb {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.flex-row-sa {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.flex-row-gap-10 {
+    column-gap: 10px;
+}
+
+.flex-row-cen {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.align-content {
+    align-content: space-between;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.flex-gap-20 {
+    gap: 20px;
+}
+
+.flex-gap-10 {
+    gap: 10px;
+}
+
+.flex-gap-140 {
+    gap: 140px;
+}
+
+.flex-wrap {
+    flex-wrap: wrap;
+}
+
+.flex-justify-cen {
+    justify-content: center;
+}
+
+.flex-25 {
+    flex: 0 0 22.5%;
+}
+
+.flex-20 {
+    flex: 0 0 20%;
+}
+
+.flex-10 {
+    flex: 0 0 10%;
+}
+
+.text-white {
+    color: white;
+}
+
+.text-price {
+    color: #10B981;
+}
+
+.text-grey {
+    color: #898A9E;
+}
+
+.text-purple {
+    color: #8156FD;
+}
+
+.text-fire {
+    color: #FE5029;
+}
+
+
+.fs-1 {
+    font-size: 30px;
+}
+
+.fs-5 {
+    font-size: 5px;
+}
+
+.fs-bold {
+    font-weight: 700;
+}
+
+.fs-14 {
+    font-size: 14px;
+}
+
+.fs-15 {
+    font-size: 15px;
+}
+
+.fs-12 {
+    font-size: 12px;
+}
+
+.fs-20 {
+    font-size: 20px;
+}
+
+.line-height-30 {
+    line-height: 30px;
+}
+
+.tac {
+    text-align: center;
+}
+
+.tal {
+    text-align: left;
+}
+
+.mb-10 {
+    margin-bottom: 10px;
+}
+
+.mb-5 {
+    margin-bottom: 5px;
+}
+
+.pb-10 {
+    padding-bottom: 10px;
+}
+
+.bg-header {
+    background-image: url(../pics/bg-header.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.bg-primary {
+    background-color: #0D102D;
+}
+
+.bg-secondary {
+    background-color: #101436;
+}
+
+.bg-card {
+    background-color: #131740;
+}
+
+.btn {
+    width: 40%;
+    display: inline;
+    padding: 1.5rem 1rem;
+    border-radius: 20px;
+    margin: 2rem 1rem;
+    font-weight: bold;
+    font-size: 1.5rem;
+    border: none;
+}
+
+.btn-primary {
+    background-color: #8156FD;
+    color: #fff;
+    width: 100%;
+}
+
+.btn-secondary {
+    background-color: #fff;
+    color: #8156FD;
+    width: 100%;
+}
+
+
+
+.pos-ab {
+    position: absolute;
+}
+
+.pos-rel {
+    position: relative;
+}
+
+.a-none {
+    text-decoration: none;
+
+}
+
+.object-cover {
+    object-fit: cover;
+}
+
+
+.list-none {
+    list-style: none;
+}
